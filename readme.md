@@ -1,0 +1,1 @@
+Une interface web simple permettant d'exécuter des commandes batch, affichant les résultats en temps réel avec des boutons d'exécution et de journalisation.
